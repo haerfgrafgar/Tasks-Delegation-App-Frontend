@@ -1,0 +1,7 @@
+.wrapper * {
+  box-sizing: content-box;
+}
+.applyContentBox > * {
+  box-sizing: content-box;
+  overflow-x: hidden !important;
+}
